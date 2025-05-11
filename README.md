@@ -31,7 +31,7 @@ This Java application calculates the optimal way to pay for a set of supermarket
 - 🗃️ **Jackson** (JSON parsing)
 - 🧪 **JUnit 5** (unit testing)
 
-## ⚙️ How to Build & Run (tested on Windows 11)
+## ⚙️ How to Build & Run (tested on Windows 11 with included wrapper)
 
 ### 📋 Prerequisites
 
